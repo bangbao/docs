@@ -19,7 +19,7 @@ title: 贡献代码
 
     ```
     $ git clone https://github.com/{username}/walle-web.git
-    $ cd docs
+    $ cd walle-web
     # 创建新的分支：
     $ git checkout -b feature/{username}/dashboard
     {% endcode %}
